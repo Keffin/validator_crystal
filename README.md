@@ -1,6 +1,9 @@
 # validator_crystal
 
-TODO: Write a description here
+The validator_crystal library is a validation library meant to check strings. 
+TODO:
+  * Implement a bunch of validation methods
+  * Implement sanitization methods
 
 ## Installation
 
