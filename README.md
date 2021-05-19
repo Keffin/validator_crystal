@@ -4,6 +4,7 @@ The validator_crystal library is a validation library meant to check strings.
 TODO:
   * Implement a bunch of validation methods
   * Implement sanitization methods
+  * Write tests instead of just executing test inputs locally
 
 ## Installation
 
