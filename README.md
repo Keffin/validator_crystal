@@ -1,6 +1,6 @@
 # validator_crystal
 
-The validator_crystal library is a validation library meant to check strings. 
+The validator_crystal library is a String validation library. Inspired a lot by the Validator library for NodeJS.  
 TODO:
   * Implement a bunch of validation methods
   * Implement sanitization methods
